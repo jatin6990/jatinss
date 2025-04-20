@@ -1,0 +1,49 @@
+
+/* index.css */
+.intro {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.content-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 10%;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 40px auto;
+  max-width: 1200px;
+}
+
+.text {
+  flex: 1;
+  padding-right: 30px;
+}
+
+.text h1 {
+  font-size: 2.5rem;
+  color: #00e676;
+}
+
+.text p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-top: 10px;
+}
+
+.image-right {
+  flex-shrink: 0;
+}
+
+.image-right img {
+  max-width: 350px;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.15);
+}

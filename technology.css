@@ -1,0 +1,9 @@
+
+/* technology.css */
+.technology .feature {
+  margin-bottom: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-left: 5px solid #00e676;
+  border-radius: 5px;
+}
